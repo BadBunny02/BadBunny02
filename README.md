@@ -1,9 +1,9 @@
-⭐ Anupam Dhoundiyal
-👋 Hi, I'm Anupam
+##⭐ Anupam Dhoundiyal
+##👋 Hi, I'm Anupam
 
 C++ & Python Developer • Linux Enthusiast • Learning Ethical Hacking & Kernel Development
 
-🚀 About Me
+##🚀 About Me
 
 🔧 I like building tools, scripts, and solving system-level problems
 
@@ -15,7 +15,7 @@ C++ & Python Developer • Linux Enthusiast • Learning Ethical Hacking & Kerne
 
 ⚡ Fun fact: I break things to understand how they work
 
-🛠️ Skills
+##🛠️ Skills
 
 Languages:
 
@@ -30,11 +30,11 @@ Kernel Internals (beginner)
 Basic Ethical Hacking (Nmap, Wireshark, Burp Suite, etc.)
 
 
-📫 Contact
+##📫 Contact
 
 ✉️ Email: anupam.dhoundiyal123@gmail.com
 
 
-⭐ Support
+##⭐ Support
 
 If you like my work, consider giving a ⭐ to my repositories!
