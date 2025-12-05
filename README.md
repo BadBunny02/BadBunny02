@@ -1,3 +1,5 @@
+<html>
+  <body>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" height="250" role="img" aria-labelledby="title desc" data-name="Anupam" data-subtitle="C++ • Python • Linux • Machine Learning">
 
 
@@ -101,3 +103,5 @@ subText.textContent = params.get('subtitle');
 
 
 </svg>
+</body>
+</html>
